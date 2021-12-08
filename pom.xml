@@ -39,7 +39,6 @@
 				    <password>11eh1aa0473@V</password>
 				    <environment>Sandbox</environment>
 				    <applicationName>cicd-jenkins-mule</applicationName>
-				    <businessGroup>mulesoft</businessGroup>
 				    <workerType>Micro</workerType>
 				    <workers>1</workers>
 				    <objectStoreV2>true</objectStoreV2>
