@@ -35,7 +35,7 @@
 				    <uri>https://anypoint.mulesoft.com</uri>
 				    <muleVersion>4.4.0</muleVersion>
 				    <!--  Deploy User Parameter -->
-				    <username>vinaynvk01</username>
+				    <username>vinaynvk101</username>
 				    <password>11eh1aa0473@V</password>
 				    <environment>Sandbox</environment>
 				    <applicationName>cicd-jenkins-mule</applicationName>
